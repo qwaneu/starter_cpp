@@ -1,0 +1,11 @@
+.git
+bin/
+obj/
+.idea/
+Dockerfile
+docker-compose.yml
+.dockerignore
+build.sh
+build/*
+donstro/
+README.md

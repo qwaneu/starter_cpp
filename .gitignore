@@ -1,0 +1,8 @@
+build/*
+cmake-build-*
+.idea
+*.userprefs
+.settings
+.sconsign.dblite
+donstro/remote.secrets
+.cache/
